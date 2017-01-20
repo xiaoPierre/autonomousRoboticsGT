@@ -1,6 +1,0 @@
-gngt-demo
-/home/zhang/catkin_ws/devel/.private/gngt_demo/share/gngt_demo/cmake/gngt_demoConfig.cmake /home/zhang/catkin_ws/devel/share/gngt_demo/cmake/gngt_demoConfig.cmake
-/home/zhang/catkin_ws/devel/.private/gngt_demo/share/gngt_demo/cmake/gngt_demoConfig-version.cmake /home/zhang/catkin_ws/devel/share/gngt_demo/cmake/gngt_demoConfig-version.cmake
-/home/zhang/catkin_ws/devel/.private/gngt_demo/lib/pkgconfig/gngt_demo.pc /home/zhang/catkin_ws/devel/lib/pkgconfig/gngt_demo.pc
-/home/zhang/catkin_ws/devel/.private/gngt_demo/lib/gngt_demo/input /home/zhang/catkin_ws/devel/lib/gngt_demo/input
-/home/zhang/catkin_ws/devel/.private/gngt_demo/lib/gngt_demo/gngt /home/zhang/catkin_ws/devel/lib/gngt_demo/gngt

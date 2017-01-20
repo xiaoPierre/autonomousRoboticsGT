@@ -1,1 +1,0 @@
-/home/zhang/catkin_ws/devel/.private/vrep_common/share/roseus/ros/vrep_common/srv/simRosGetObjectIntParameter.l
