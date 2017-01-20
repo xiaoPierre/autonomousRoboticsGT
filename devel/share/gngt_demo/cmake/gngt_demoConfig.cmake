@@ -1,0 +1,1 @@
+/home/zhang/catkin_ws/devel/.private/gngt_demo/share/gngt_demo/cmake/gngt_demoConfig.cmake

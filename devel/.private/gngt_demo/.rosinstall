@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zhang/catkin_ws/devel/.private/gngt_demo/setup.sh

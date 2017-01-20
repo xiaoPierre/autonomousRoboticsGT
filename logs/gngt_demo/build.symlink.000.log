@@ -1,0 +1,5 @@
+Symlinking /home/zhang/catkin_ws/devel/share/gngt_demo/cmake/gngt_demoConfig.cmake
+Symlinking /home/zhang/catkin_ws/devel/share/gngt_demo/cmake/gngt_demoConfig-version.cmake
+Symlinking /home/zhang/catkin_ws/devel/lib/pkgconfig/gngt_demo.pc
+Symlinking /home/zhang/catkin_ws/devel/lib/gngt_demo/input
+Symlinking /home/zhang/catkin_ws/devel/lib/gngt_demo/gngt
