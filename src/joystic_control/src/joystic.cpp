@@ -9,8 +9,8 @@ void onJoy(ros::Publisher& pub, const sensor_msgs::Joy::ConstPtr& msg)
   double linear = msg->axes[1];
   double angular = msg->axes[3];
   geometry_msgs::Twist cmd;
-  cmd.linear.x = 3 * linear;
-  cmd.angular.z = 3 * angular;
+  cmd.linear.x = 1 * linear;
+  cmd.angular.z = 6 * angular;
   pub.publish(cmd);
 }
 
@@ -19,7 +19,7 @@ int main(int argc, char **argv)
   ros::init(argc, argv, "joyControl");
 
   ros::NodeHandle n;
-  ros::Publisher pub = n.advertise<geometry_msgs::Twist>("/vrep/twistCommand", 1);
+  ros::Publisher pub = n.advertise<geometry_msgs::Twist>("/teleop/cmd_vel", 1);
   ros::Subscriber sub = n.subscribe<sensor_msgs::Joy>("joy", 1, boost::bind(onJoy, boost::ref(pub), _1));
 
 
